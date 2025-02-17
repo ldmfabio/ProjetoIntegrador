@@ -43,3 +43,5 @@ Ou, se preferir, use um dos modelos trabalhados na disciplina de Banco de Dados 
 - **Data de entrega: 20/02/2025**
 - **Observação: A atividade poderá ser em dupla.**
 
+
+> Vá até ao [Google Classroom](https://classroom.google.com) da disciplina de **PRIN2 2024** para entregar o link do repositório do GitHub na atividade correspondente a esta tarefa.

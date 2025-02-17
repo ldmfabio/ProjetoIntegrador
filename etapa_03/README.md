@@ -102,4 +102,4 @@ Para parar o servidor, pressione `Ctrl + C` no terminal.
 
 ## Quando finalizar, não esqueça de publicar o código no GitHub. Avance para a próxima etapa para seguir as orientações 😉
 
-[## [Clique aqui para ir para a próxima etapa.](../etapa_04/README.md)]
+## [Clique aqui para ir para a próxima etapa.](../etapa_04/README.md)
