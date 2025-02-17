@@ -28,7 +28,7 @@ Para finalizar o ano letivo da disciplina de Projeto Integrador II, a dupla (má
     - Turmas (id, nome, id_professor, horario)
     - Alunos (id, nome, matricula, curso, id_turma)
 
-`📝 Explicação: Cada turma tem um único professor e vários alunos, mas cada aluno pertence a apenas uma turma`
+`📝 Explicação: Cada turma tem um único professor e vários alunos, mas cada aluno pertence a apenas uma turma.`
 
 
 Ou, se preferir, use um dos modelos trabalhados na disciplina de Banco de Dados durante o ano letivo que está chegando ao fim.
