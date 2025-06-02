@@ -1,5 +1,9 @@
 # Etapa 01 - Criando o ambiente de desenvolvimento
 
+`
+Nesta etapa, vamos criar o ambiente de desenvolvimento para o nosso projeto Django. Vamos utilizar o PDM (Python Development Manager / Product Development Master) para gerenciar as dependências do projeto e criar um ambiente virtual. 
+`
+
 Criaremos uma nova pasta chamada `projeto_01`. Dentro desta pasta, criaremos outras duas pastas, uma chamada `backend` e outra chamada `frontend`. 
 
 Execute no terminal os seguintes comandos:
