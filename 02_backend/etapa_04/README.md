@@ -44,6 +44,6 @@ Para fazer isso, você deve executar os seguintes passos:
 7. Para ver a estrutura de uma tabela específica, você pode usar o comando `.schema nome_da_tabela`.
 8. Para sair do shell, digite `exit` ou pressione `Ctrl + D`. No Windows, digite `.quit`.
 
-## Agora, vamos para a atividade prática!
+## Agora, ***let's work***!
 
 ## [Clique aqui para ir para a atividade final.](../etapa_05/README.md)
