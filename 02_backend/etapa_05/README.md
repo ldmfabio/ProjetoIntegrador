@@ -2,7 +2,7 @@
 
 ## Projeto Integrador II + Banco de Dados
 
-### Atividade 1: Sistema de Gestão para Clínica Médica
+### **Atividade 1: Sistema de Gestão para Clínica Médica**
 #### 📌 Contexto:
 Você foi contratado para desenvolver o modelo de dados de um sistema de gestão para uma clínica médica. Esse sistema deve organizar informações sobre médicos, pacientes, consultas e prescrições de medicamentos.
 
@@ -32,7 +32,7 @@ Você foi contratado para desenvolver o modelo de dados de um sistema de gestão
 | **1INFO2** | Luci, Sara, Yasmin |
 | **1INFO2** | Emilly, Kelly, Pietra |
 
-### Atividade 2: Sistema de Pedidos para Indústria de Móveis
+### **Atividade 2: Sistema de Pedidos para Indústria de Móveis**
 
 #### 📌 Contexto:
 Você foi chamado para projetar o banco de dados de uma **indústria moveleira**. A empresa precisa controlar os pedidos realizados pelos clientes, o estoque de produtos e matérias-primas, e as ordens de produção.
@@ -63,7 +63,7 @@ Você foi chamado para projetar o banco de dados de uma **indústria moveleira**
 | **1INFO2** | João, Mateus Oliveira, Ricardo |
 | **1INFO2** | André, Johann, Pedro |
 
-### Atividade 3: Sistema de Gestão de Propriedade Rural (Agronegócio)
+### **Atividade 3: Sistema de Gestão de Propriedade Rural (Agronegócio)**
 #### 📌 Contexto:
 Você está desenvolvendo um sistema para auxiliar a gestão de **propriedades rurais**. O foco é o controle das culturas plantadas, uso de insumos e a colheita.
 
@@ -92,7 +92,7 @@ Você está desenvolvendo um sistema para auxiliar a gestão de **propriedades r
 |------------|:-----------------|
 | **1INFO2** | Davi, Luiz, Vitor |
 
-### Atividade 4: Sistema de Gestão Escolar
+### **Atividade 4: Sistema de Gestão Escolar**
 
 #### 📌 Contexto:
 Você está desenvolvendo um sistema de **controle acadêmico** para uma instituição de ensino. O sistema deve permitir o gerenciamento de alunos, professores, cursos, disciplinas e a frequência nas aulas.
@@ -122,7 +122,7 @@ Você está desenvolvendo um sistema de **controle acadêmico** para uma institu
 | **1INFO2** | Amanda, Heloisa, Roberta |
 | **1INFO2** | Breno, Geanluca, José |
 
-### Atividade 5: Sistema de Hotelaria
+### **Atividade 5: Sistema de Hotelaria**
 
 #### 📌 Contexto:
 Você foi contratado para construir um sistema para gerenciar **hóspedes**, **reservas**, **pagamentos** e **serviços oferecidos** por um hotel.
