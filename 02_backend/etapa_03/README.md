@@ -94,10 +94,10 @@ Se você acessar a URL `http://localhost:8000/`, verá então todas as URLs que 
 
 Para parar o servidor, pressione `Ctrl + C` no terminal.
 
-# TAREFA
+<!-- # TAREFA
 
 - [ ] Criar a API REST para a aplicação `cidade`.
-- [ ] Criar a API REST para a aplicação `aluno`.
+- [ ] Criar a API REST para a aplicação `aluno`. -->
 
 
 ## Quando finalizar, não esqueça de publicar o código no GitHub. Avance para a próxima etapa para seguir as orientações 😉

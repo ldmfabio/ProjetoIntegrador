@@ -32,17 +32,16 @@ Claro, esses passos para publicar no GitHub demandam de alguns pré-requisitos. 
 
 Também é possível executar instruções SQL diretamente no Django, utilizando o comando `pdm run python manage.py dbshell`. Este comando abrirá um shell interativo onde você poderá executar comandos SQL diretamente no banco de dados configurado no seu projeto Django.
 
+> Para executar o comando mencionado acima, certifique-se de que você está acessando a pasta do seu projeto Django no terminal. O comando `dbshell` permite que você interaja diretamente com o banco de dados, facilitando a execução de consultas SQL, inserções, atualizações e exclusões de dados.
+
 Para fazer isso, você deve executar os seguintes passos:
-1. Certifique-se de que o banco de dados está configurado corretamente no arquivo `settings.py` do seu projeto Django.
-2. Execute o comando `pdm run python manage.py dbshell` no terminal.
-3. Você verá um prompt interativo onde poderá digitar comandos SQL.
-4. Por exemplo, você pode digitar `SELECT * FROM nome_da_tabela;` para consultar dados de uma tabela específica.
-5. 
+1. Execute o comando `pdm run python manage.py dbshell` no terminal.
+2. Você verá um prompt interativo onde poderá digitar comandos SQL.
+3. Por exemplo, você pode digitar `SELECT * FROM nome_da_tabela;` para consultar dados de uma tabela específica.
 4. Após digitar os comandos, pressione `Enter` para executá-los.
 5. Para sair do shell, digite `exit` ou pressione `Ctrl + D`.
-6. 
+6. Para visualizar as tabelas existentes no banco de dados, você pode usar o comando `.tables` já dentro do shell interativo.
 
-
-### Está concluído? ***Então, _let's work_!*** 🚀
+## Agora, vamos para a atividade prática!
 
 ## [Clique aqui para ir para a atividade final.](../etapa_05/README.md)
