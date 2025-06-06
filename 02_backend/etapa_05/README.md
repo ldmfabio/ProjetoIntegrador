@@ -29,8 +29,12 @@ Você foi contratado para desenvolver o modelo de dados de um sistema de gestão
 ### Equipes que entregarão a atividade:
 | **Turma** | **Integrantes** |
 |------------|:-----------------|
-| **1INFO2** | Luci, Sara, Yasmin |
-| **1INFO2** | Emilly, Kelly, Pietra |
+| **2INFO1** | Amanda, Thayna Becker, Vitor André |
+| **2INFO1** | Higor, Paulo, Willian |
+| **2INFO2** | Luci, Sara, Yasmin |
+| **2INFO2** | Emilly, Kelly, Pietra |
+| **2INFO3** | Milena, Andressa, Cauan |
+| **2INFO3** | Vitoria, Vitor, Rodolfo |
 
 ### **Atividade 2: Sistema de Pedidos para Indústria de Móveis**
 
@@ -60,8 +64,12 @@ Você foi chamado para projetar o banco de dados de uma **indústria moveleira**
 ### Equipes que entregarão a atividade:
 | **Turma** | **Integrantes** |
 |------------|:-----------------|
-| **1INFO2** | João, Mateus Oliveira, Ricardo |
-| **1INFO2** | André, Johann, Pedro |
+| **2INFO1** | Bianca, Helena, Nicole |
+| **2INFO1** | Gabriela, Henrique, Maria Eduarda |
+| **2INFO2** | João, Mateus Oliveira, Ricardo |
+| **2INFO2** | André, Johann, Pedro |
+| **2INFO3** | Arthur Goulart, Carlos, Victor de Souza |
+| **2INFO3** | Helena, Emanuel, Arthur Fernandes |
 
 ### **Atividade 3: Sistema de Gestão de Propriedade Rural (Agronegócio)**
 #### 📌 Contexto:
@@ -90,7 +98,8 @@ Você está desenvolvendo um sistema para auxiliar a gestão de **propriedades r
 ### Equipes que entregarão a atividade:
 | **Turma** | **Integrantes** |
 |------------|:-----------------|
-| **1INFO2** | Davi, Luiz, Vitor |
+| **2INFO1** | Gabriel, Erick, Murilo |
+| **2INFO2** | Davi, Luiz, Vitor |
 
 ### **Atividade 4: Sistema de Gestão Escolar**
 
@@ -119,8 +128,12 @@ Você está desenvolvendo um sistema de **controle acadêmico** para uma institu
 ### Equipes que entregarão a atividade:
 | **Turma** | **Integrantes** |
 |------------|:-----------------|
-| **1INFO2** | Amanda, Heloisa, Roberta |
-| **1INFO2** | Breno, Geanluca, José |
+| **2INFO1** | Bruno, Giovana, Jeana, Jeovana, Mayara |
+| **2INFO1** | Luiza, Matheus, Rafael |
+| **2INFO2** | Amanda, Heloisa, Roberta |
+| **2INFO2** | Breno, Geanluca, José |
+| **2INFO3** | Maria Carolina, Maria Clara, Pedro Gabriel |
+| **2INFO3** | Laura, Lucas, Maria Aparecida |
 
 ### **Atividade 5: Sistema de Hotelaria**
 
@@ -149,8 +162,12 @@ Você foi contratado para construir um sistema para gerenciar **hóspedes**, **r
 ### Equipes que entregarão a atividade:
 | **Turma** | **Integrantes** |
 |------------|:-----------------|
-| **1INFO2** | Afonso, Bianca, Eric |
-| **1INFO2** | Arthur, Matheus Lima, Renan |
+| **2INFO1** | Arthur, Cauê, Ian |
+| **2INFO1** | Ana Luiza, Julia Costa |
+| **2INFO2** | Afonso, Bianca, Eric |
+| **2INFO2** | Arthur, Matheus Lima, Renan |
+| **2INFO3** | Agatha, Ana Laura, Gabriela |
+| **2INFO3** | Anderson, Daniel |
 
 ## **Requisitos:**
 - Utilizar Python e Django
