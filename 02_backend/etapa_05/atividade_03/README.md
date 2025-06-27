@@ -27,5 +27,8 @@ Você está desenvolvendo um sistema para auxiliar a gestão de **propriedades r
 |------------|:-----------------|
 | **2INFO1** | Gabriel, Erick, Murilo |
 | **2INFO2** | Davi, Luiz, Vitor |
+| **2INFO3** | Adrio, Gustavo, Matheus |
+| **2INFO3** | Eloah, Eloisa, Ana Luiza |
+| **2INFO3** | João, Thiago, Willian |
 
 ### [Voltar](../README.md)

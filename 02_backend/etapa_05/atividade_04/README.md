@@ -28,7 +28,7 @@ Você está desenvolvendo um sistema de **controle acadêmico** para uma institu
 | **2INFO1** | Bruno, Giovana, Jeana, Jeovana, Mayara |
 | **2INFO1** | Luiza, Matheus, Rafael |
 | **2INFO2** | Amanda, Heloisa, Roberta |
-| **2INFO2** | Breno, Geanluca, José |
+| **2INFO2** | Breno, Gianluca, José |
 | **2INFO3** | Maria Carolina, Maria Clara, Pedro Gabriel |
 | **2INFO3** | Laura, Lucas, Maria Aparecida |
 

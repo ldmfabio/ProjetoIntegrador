@@ -11,9 +11,10 @@ Você foi contratado para desenvolver o modelo de dados de um sistema de gestão
 |------------|:-----------------|
 | **2INFO1** | Amanda, Thayna Becker, Vitor André |
 | **2INFO1** | Higor, Paulo, Willian |
-| **2INFO2** | Luci, Sara, Yasmin |
+| **2INFO2** | Clara, Gabriel Silva, Maria H |
 | **2INFO2** | Emilly, Kelly, Pietra |
-| **2INFO3** | Milena, Andressa, Cauan |
+| **2INFO2** | Luci, Sara, Yasmin |
+| **2INFO3** | Milena, Andressa, Kauan |
 | **2INFO3** | Vitoria, Vitor, Rodolfo |
 
 ### [Clique aqui para obter detalhes sobre a Atividade](atividade_01/README.md)
@@ -45,7 +46,12 @@ Você está desenvolvendo um sistema para auxiliar a gestão de **propriedades r
 | **Turma** | **Integrantes** |
 |------------|:-----------------|
 | **2INFO1** | Gabriel, Erick, Murilo |
+| **2INFO1** | Erick, Filipe, Ijair |
+| **2INFO2** | Ana Paula, Anna Flávia |
 | **2INFO2** | Davi, Luiz, Vitor |
+| **2INFO3** | Adrio, Gustavo, Matheus |
+| **2INFO3** | Eloah, Eloisa, Ana Luiza |
+| **2INFO3** | João, Thiago, Willian |
 
 ### [Clique aqui para obter detalhes sobre a Atividade](atividade_03/README.md)
 
@@ -61,7 +67,7 @@ Você está desenvolvendo um sistema de **controle acadêmico** para uma institu
 | **2INFO1** | Bruno, Giovana, Jeana, Jeovana, Mayara |
 | **2INFO1** | Luiza, Matheus, Rafael |
 | **2INFO2** | Amanda, Heloisa, Roberta |
-| **2INFO2** | Breno, Geanluca, José |
+| **2INFO2** | Breno, Gianluca, José |
 | **2INFO3** | Maria Carolina, Maria Clara, Pedro Gabriel |
 | **2INFO3** | Laura, Lucas, Maria Aparecida |
 
@@ -77,7 +83,7 @@ Você foi contratado para construir um sistema para gerenciar **hóspedes**, **r
 |------------|:-----------------|
 | **2INFO1** | Arthur, Cauê, Ian |
 | **2INFO1** | Ana Luiza, Julia Costa |
-| **2INFO2** | Afonso, Bianca, Eric |
+| **2INFO2** | Bianca, Eric, Gustavo H |
 | **2INFO2** | Arthur, Matheus Lima, Renan |
 | **2INFO3** | Agatha, Ana Laura, Gabriela |
 | **2INFO3** | Anderson, Daniel |
