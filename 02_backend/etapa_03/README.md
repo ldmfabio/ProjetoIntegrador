@@ -57,12 +57,12 @@ Este código cria uma view para a classe `Estado`. A view é responsável por li
 
 ## Configurando as rotas
 
-Vamos configurar as rotas para a aplicação `alunos`. Abra o arquivo `urls.py`, que está na pasta `alunos`, e adicione o seguinte código:
+Vamos configurar as rotas para a aplicação `alunos`. Abra o arquivo `urls.py`, que está na pasta `config`, e adicione o seguinte código:
 ```python
 from django.contrib import admin
 from django.urls import include, path
 from rest_framework.routers import DefaultRouter
-from .views import EstadoViewSet
+from alunos.views import EstadoViewSet
 
 router = DefaultRouter()
 router.register(r'estados', EstadoViewSet)
